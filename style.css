@@ -21,6 +21,22 @@ header h1{
     width: 100%;
     padding: 50px;
 }
+.text-1{
+    text-align: center;
+    background: linear-gradient( 135deg, #3398DB, #DDE6E8, #E84B3C );  
+}
+.text-2{
+    text-align: center;
+    background: linear-gradient( 135deg, #C0382B, #2980B9, #DDE6E8 );
+}
+.text-3{
+    text-align: center;
+    background: linear-gradient( 135deg, #E84B3C, #DDE6E8, #27AF60 );  
+}
+.text-4{
+    text-align: center;
+    background: linear-gradient( 135deg, #3398DB, #DDE6E8, #3398DB, #DDE6E8 );  
+}
 
 .cards .card{
     background-color: rgb(0,144,255);
